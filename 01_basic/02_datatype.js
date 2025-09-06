@@ -17,4 +17,4 @@ var user = {
     age: 21
 }
 
-console.log(user);
+console.log("Hello World");
