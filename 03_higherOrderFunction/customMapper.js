@@ -1,0 +1,4 @@
+function customMapper() {
+    let result = []
+    
+}
